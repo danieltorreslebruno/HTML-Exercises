@@ -1,5 +1,5 @@
 
-function show_vehicle(){
+    function show_vehicle(){
     var vehicle = document.getElementById("vehicle")
     vehicle = vehicle.options[vehicle.selectedIndex].value
 
